@@ -66,4 +66,4 @@ pip install numpy pandas scikit-learn matplotlib
 
 # 📬 Liên hệ
 Nếu bạn cần trao đổi hoặc học hỏi thêm, hãy liên hệ:
-Email: quynhphuong1209@gmail.com
+Email: dinhlequynhphuong@gmail.com
